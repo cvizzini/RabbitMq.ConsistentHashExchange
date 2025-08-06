@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitConsistentHash", "RabbitConsistentHash\RabbitConsistentHash.csproj", "{A7F044AE-516B-443D-A648-224C54890623}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitConsistentHash.Tests", "RabbitConsistentHash.Tests\RabbitConsistentHash.Tests.csproj", "{B8F044AE-516B-443D-A648-224C54890624}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{A7F044AE-516B-443D-A648-224C54890623}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A7F044AE-516B-443D-A648-224C54890623}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A7F044AE-516B-443D-A648-224C54890623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F044AE-516B-443D-A648-224C54890624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F044AE-516B-443D-A648-224C54890624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F044AE-516B-443D-A648-224C54890624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F044AE-516B-443D-A648-224C54890624}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
